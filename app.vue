@@ -7,17 +7,16 @@
 </template>
 
 <script>
-import { AsyncData } from 'nuxt/app/composables';
+import { useAsyncData } from 'nuxt/app/composable'
 
   export default {
-    async setup(props) {
-      const AsyncData = useAsyncData()
-      const {data} = await AsyncData(() => {
+    async setup() {
+      const asyncData = useAsyncData()
+      const {data: mountains} = await asyncData(() => {
         return $fetch('https://api.nuxtjs.dev/mountains')
       })
       return{ mountains }
     }
-    
   }
 </script>
 
