@@ -108,7 +108,7 @@
         .parent:hover .child {
             opacity:1;
             height:auto;
-            overflow:none       ;
+            overflow:none;
             transform: translateY(0);
         }
         .child {
