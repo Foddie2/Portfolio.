@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-indigo-600">
+    <div class="bg-white    ">
       <nav
         class="
           container
@@ -15,7 +15,7 @@
             class="
               text-xl
               font-bold
-              text-gray-100
+              text-gray-700
               md:text-2xl
               hover:text-indigo-400
             "
@@ -26,7 +26,7 @@
             <button
               type="button"
               class="
-                text-gray-100
+                text-gray-700
                 hover:text-gray-400
                 focus:outline-none focus:text-gray-400
               "
@@ -51,10 +51,10 @@
             md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0
           "
         >
-          <li class="text-gray-100 hover:text-indigo-400">Home</li>
-          <li class="text-gray-100 hover:text-indigo-400">About</li>
-          <li class="text-gray-100 hover:text-indigo-400">Blogs</li>
-          <li class="text-gray-100 hover:text-indigo-400">Contact Us</li>
+          <li class="text-gray-700 hover:text-indigo-400">Home</li>
+          <li class="text-gray-700 hover:text-indigo-400">About</li>
+          <li class="text-gray-700 hover:text-indigo-400">Blogs</li>
+          <li class="text-gray-700 hover:text-indigo-400">Contact Us</li>
         </ul>
       </nav>
     </div>
