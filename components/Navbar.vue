@@ -112,6 +112,8 @@
             transform: translateY(0);
         }
         .child {
+            position: absolute;
+            z-index: 2;
             opacity:0;
             height:0;
             overflow:hidden;
