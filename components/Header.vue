@@ -1,13 +1,13 @@
 <template>
   <!-- component -->
 <section>
-	<div class="bg-cyan-100 text-gray py-20">
+	<div class="bg-fuchsia-100 text-gray-500 py-20">
 		<div class="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24">
 			<div class="flex flex-col w-full lg:w-1/3 justify-center items-start p-8">
 				<h1 class="text-3xl md:text-5xl p-2 text-yellow-300 tracking-loose">TechIT</h1>
 				<h2 class="text-3xl md:text-5xl leading-relaxed md:leading-snug mb-2">Space : The Timeless Infinity
 				</h2>
-				<p class="text-sm md:text-base text-gray-700 mb-4">Explore your favourite events and
+				<p class="text-sm md:text-base text-gray-500 mb-4">Explore your favourite events and
 					register now to showcase your talent and win exciting prizes.</p>
 				<a href="#"
 					class="bg-transparent hover:bg-yellow-300 text-yellow-300 hover:text-black rounded shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent">
