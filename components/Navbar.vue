@@ -19,7 +19,7 @@
               md:text-2xl
               hover:text-indigo-400
             "
-            >Logo
+            >Ben Agala
           </router-link>
           <!-- Mobile menu button -->
           <div @click="toggleNav" class="flex md:hidden">
