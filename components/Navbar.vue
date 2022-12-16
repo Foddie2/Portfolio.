@@ -98,20 +98,20 @@
 <style scoped>
     
 @media only screen and (min-width: 768px){
-        .parent:hover .child {
-            opacity:1;
-            height:auto;
-            overflow:none;
-            transform: translateY(0);
-        }
-        .child {
-            position: absolute;
-            z-index: 2;
-            opacity:0;
-            height:0;
-            overflow:hidden;
-            transform: translateY(-10%);
-        }
-    }
+.parent:hover .child {
+  opacity:1;
+  height:auto;
+  overflow:none;
+  transform: translateY(0);
+}
+.child {
+  position: absolute;
+  z-index: 2;
+  opacity:0;
+  height:0;
+  overflow:hidden;
+  transform: translateY(-10%);
+  }
+}
 
 </style>
