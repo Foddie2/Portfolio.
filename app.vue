@@ -3,7 +3,7 @@
     <Navbar/>
     <Header/>
     Hello nuxt 3
-    <pre>{{ mountains }}</pre>
+    <!-- <pre>{{ mountains }}</pre> -->
 
   </div>
 </template>

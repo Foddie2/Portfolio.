@@ -79,7 +79,11 @@
                     </li>
                 </ul>
           </li>
-          <li class="text-gray-700 hover:text-indigo-400">Contact</li>
+          <li class="text-gray-700 hover:text-indigo-400">
+            <a href="#" class="flex justify-between md:inline-flex p-4 items-center hover:bg-gray-50 space-x-2">
+                    <span>Contact</span>
+                </a>
+          </li>
         </ul>
       </nav>
     </div>
