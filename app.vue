@@ -2,6 +2,7 @@
   <div>
     <Navbar/>
     <Header/>
+    <Footer/>
 
   </div>
 </template>
