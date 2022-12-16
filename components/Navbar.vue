@@ -3,8 +3,8 @@
       <nav
         class="
           container
-          px-6
-          py-8
+          px-8
+          my-6
           mx-auto
           md:flex md:justify-between md:items-center
         "
