@@ -7,7 +7,7 @@
 				<h4 class="text-lg md:text-3xl font-semibold p-2 text-rose-600 tracking-loose">Hey! Its me</h4>
 				<h2 class="text-3xl md:text-5xl leading-relaxed md:leading-snug mb-2">A Software developer & Technical Support Engineer 
 				</h2>
-				<p class="text-sm md:text-base text-gray-500 mb-4">Seeing what doesn’t exist yet, that’s my strength. It doesn’t have to be boring. I like being different — and you should too.</p>
+				<p class="text-sm md:text-base text-gray-500 mb-4">Seeing what doesn’t exist yet, that’s my strength. I work hard to make it happen – in technology, in ideas, and in your business</p>
 				<a href="#"
 					class="bg-transparent hover:bg-rose-600 text-rose-600 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-rose-600 hover:border-transparent">
 					Connect</a>
