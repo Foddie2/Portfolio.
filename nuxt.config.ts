@@ -7,5 +7,8 @@ export default defineNuxtConfig({
           autoprefixer: {},
         },
       },
+      plugins : [
+        {src:'~/node_modules/tw-elements', mode:'client'},
+      ]
 
 })
