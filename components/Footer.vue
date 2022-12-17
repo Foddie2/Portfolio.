@@ -61,7 +61,7 @@
 </section>
 </template>
 
-<script>
+<script lang="ts">
     export default {
         
     }
