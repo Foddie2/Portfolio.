@@ -1,15 +1,16 @@
 <template>
   <div>
-    <Navbar/>
-    <Header/>
-    <About/>
-    <Footer/>
+    <NuxtPage>
+    
+    </NuxtPage>
 
   </div>
 </template>
 
 <script>
-
+  export default {
+    
+  }
 </script>
 
 <style lang="scss" scoped>
