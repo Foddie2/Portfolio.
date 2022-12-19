@@ -6,6 +6,9 @@
           px-8
           my-6
           mx-auto
+          fixed
+          z-20
+          top-0
           md:flex md:justify-between md:items-center
         "
       >
