@@ -6,15 +6,14 @@
         <article class="max-w-sm mx-auto md:max-w-none grid md:grid-cols-2 gap-6 md:gap-8 lg:gap-12 xl:gap-16 items-center">
             <div>
                 <header>
-                    <div class="mb-3">
+                    <div class="text-2xl mb-3">
                        <h2> Hey! Its me</h2>
                     </div>
-                    <h3 class="text-2xl lg:text-3xl font-bold leading-tight mb-2">
+                    <h3 class="text-3xl lg:text-3xl font-bold leading-tight mb-2">
                         <a class=" transition duration-150 ease-in-out" href="#0">A Software developer & Technical Support Engineer .</a>
                     </h3>
                 </header>
-                <p class="text-lg text-gray-400 flex-grow">Seeing what doesn’t exist yet, that’s my strength. I work hard to make it happen – in technology, in ideas, and in your business.</p>
-                
+                <p class="text-lg text-gray-700 flex-grow">Seeing what doesn’t exist yet, that’s my strength. I work hard to make it happen – in technology, in ideas, and in your business.</p>
             </div>
 			<a class="relative block group" href="#0">
                 <div class="absolute inset-0 bg-gray-800 hidden md:block transform md:translate-y-2 md:translate-x-4 xl:translate-y-4 xl:translate-x-8 group-hover:translate-x-0 group-hover:translate-y-0 transition duration-700 ease-out pointer-events-none" aria-hidden="true"></div>
