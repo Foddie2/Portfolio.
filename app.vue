@@ -1,24 +1,16 @@
 <template>
   <div>
-    <Navbar/>
-    <Header/>
-    Hello nuxt 3
-    <!-- <pre>{{ mountains }}</pre> -->
+    <NuxtPage>
+    
+    </NuxtPage>
 
   </div>
 </template>
 
 <script>
-// import { useAsyncData } from 'nuxt/app/composables' 
-  // export default {
-  //   async setup() {
-  //     const asyncData = useAsyncData()
-  //     const {data: mountains} = await asyncFetch(() => {
-  //       return $fetch('https://api.nuxtjs.dev/mountains')
-  //     })
-  //     return{ mountains }
-  //   }
-  // }
+  export default {
+    
+  }
 </script>
 
 <style lang="scss" scoped>
