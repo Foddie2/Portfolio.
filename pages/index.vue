@@ -3,7 +3,9 @@
       <Navbar/>
       <Header/>
       <About/>
+      <Portfolio/>
       <Footer/>
+
   
     </div>
   </template>
