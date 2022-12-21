@@ -1,9 +1,11 @@
 <template>
-    <div>
+    
+  <div>
       <Navbar/>
       <Header/>
       <About/>
       <Portfolio/>
+      <Companies/>
       <Contact/>
       <Footer/>
 
