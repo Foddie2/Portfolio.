@@ -37,12 +37,12 @@
         <ul :class="showMenu ? 'flex' : 'hidden'"
           class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
           <li class="text-gray-500 hover:text-rose-600 font-medium">
-            <a href="#" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
+            <a href="#About" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
                     <span>About</span>
                 </a>
           </li>
           <li class="text-gray-500 hover:text-rose-600 font-medium">
-            <a href="#" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
+            <a href="#Portfolio" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
                     <span>Portfolio </span>
                 </a>
           </li>
@@ -72,7 +72,7 @@
                 </ul>
           </li>
           <li class="text-gray-500 hover:text-rose-600 font-medium">
-            <a href="#" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
+            <a href="#Contact" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
                     <span>Contact</span>
                 </a>
           </li>

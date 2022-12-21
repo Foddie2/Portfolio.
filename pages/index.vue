@@ -14,6 +14,9 @@
   
   </script>
   
-  <style lang="scss" scoped>
+  <style  scoped>
+  * {
+  scroll-behavior: smooth;
+}
   
   </style>

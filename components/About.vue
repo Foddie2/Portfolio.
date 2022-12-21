@@ -1,16 +1,16 @@
 <template>
 	<div class=" text-gray-700 pt-12 pb-12 bg-violet-50">
-	  <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto mt-10 mb-10">
-		<h2 class="text-3xl font-bold mb-6 text-gray-700 uppercase">Event Planning & Design</h2>
+	  <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto mt-10 mb-10  max-w-6xl p-8 sm:px-6">
+		<h2 class="text-3xl font-bold mb-6 text-gray-700">About Me</h2>
 		<p class="mb-6 pb-2 md:mb-12 md:pb-0 text-base text-center text-gray-500">
 		  Wasali Events is a premier, full-service event planning and design company specializing in distinctive weddings, luxurious events, non-profit fund-raisers, and corporate functions.We have the perfect combination of sophistication, style, and creative enthusiasm to make your celebration a success. <br/><br/> Our expertise lies in being able to see the big picture without forgoing the details - ultimately creating events that our clients and their guests remember for years.    Highly sought after and in demand we have traveled the world to bring together our clients' visions.
 		</p>
-		<NuxtLink to="/AboutUs">
-		<button
+		<!-- <NuxtLink to="/AboutUs"> -->
+	<!-- 	<button
 		  class="wobble-vertical bg-transparent hover:bg-purple-500 text-purple font-semibold hover:text-white py-2 px-4 border border-purple-500 hover:border-transparent rounded text-gray-700">
 		  FIND OUT MORE
-		</button>
-		</NuxtLink>
+		</button> -->
+		<!-- </NuxtLink> -->
 		</div>
 	  </div>
   </template>
