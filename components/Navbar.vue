@@ -1,6 +1,6 @@
 <template>
-    <section class="bg-white z-20 top-0 w-full bg-opacity-90 fixed  ">
-      <nav class="container px-8 my-6 mx-auto md:flex md:justify-between md:items-center">
+    <section class="bg-white z-20 top-0 w-full bg-opacity-60 fixed  ">
+      <nav class="container  max-w-6xl px-6 my-6 mx-auto md:flex md:justify-between md:items-center">
         <div class="flex items-center justify-between">
           <router-link
             to="/"

@@ -2,7 +2,7 @@
 <section>
   <Navbar/>
   <div class="py-24 bg-white text-gray-700">
-    <div class="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x">
+    <div class="grid max-w-6xl grid-cols-1 mx-auto md:grid-cols-2 md:divide-x">
       <div class="py-6 md:py-0 md:px-6 mb-5">
         <h1 class="text-3xl font-bold">Get in touch</h1>
           <!-- <p class="pt-2 pb-4">Fill in the form to start a conversation</p> -->
@@ -72,7 +72,6 @@
       </form>
     </div>
   </div>
-  <Footer/>
 </section>
 </template>
 
