@@ -4,6 +4,7 @@
       <Header/>
       <About/>
       <Portfolio/>
+      <Contact/>
       <Footer/>
 
   
