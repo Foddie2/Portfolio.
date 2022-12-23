@@ -56,31 +56,31 @@
             <ul class="child transition duration-300 md:absolute top-full right-0 md:w-48 bg-white md:shadow-lg md:rounded-b ">
                     <li>
                         <a href="#" class="flex px-4 py-3 hover:bg-violet-50">
-                            Web development
+                          Web development
                         </a>
                     </li>
                     <li>
                         <a href="#" class="flex px-4 py-3 hover:bg-violet-50">
-                            Web Design
+                          Web Design
                         </a>
                     </li>
                     <li>
                         <a href="#" class="flex px-4 py-3 hover:bg-violet-50">
-                            Technical / IT Support
+                          Technical / IT Support
                         </a>
                     </li>
                 </ul>
           </li>
           <li class="text-gray-500 hover:text-blue-500 font-medium">
             <a href="#Contact" class="link link-underline link-underline-black flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
-                    <span>Contact</span>
-                </a>
+              <span>Contact</span>
+            </a>
           </li>
         </ul>
       </nav>
     </section>
   </template>
-  
+
 <script>
     export default {
         setup() {
