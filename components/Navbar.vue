@@ -80,7 +80,7 @@
       </nav>
     </section>
   </template>
-
+  
 <script>
     export default {
         setup() {
@@ -111,21 +111,19 @@
 }
 
 .link-underline {
-        border-bottom-width: 0;
-        background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
-        background-size: 0 3px;
-        background-position: 0 100%;
-        background-repeat: no-repeat;
-        transition: background-size .5s ease-in-out;
-    }
-
-    .link-underline-black {
-        background-image: linear-gradient(transparent, transparent), linear-gradient(rgb(34, 163, 255), rgb(34, 185, 255))
-    }
-
-    .link-underline:hover {
-        background-size: 100% 3px;
-        background-position: 0 100%
-    } 
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
+  background-size: 0 3px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .5s ease-in-out;
+}
+.link-underline-black {
+  background-image: linear-gradient(transparent, transparent), linear-gradient(rgb(34, 163, 255), rgb(34, 185, 255))
+}
+.link-underline:hover {
+  background-size: 100% 3px;
+  background-position: 0 100%
+} 
 
 </style>
