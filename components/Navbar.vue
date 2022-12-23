@@ -47,7 +47,6 @@
             </a>
           </li>
 
-
           <li class="relative parent text-gray-500 hover:text-blue-500 font-medium">
             <a href="#" class="flex justify-between md:inline-flex p-4 items-center hover:bg-violet-50 space-x-2">
               <span>Services</span>
