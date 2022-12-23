@@ -9,6 +9,8 @@
   },
   "devDependencies": {
     "@babel/plugin-syntax-nullish-coalescing-operator": "^7.8.3",
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@types/node": "^18.11.17",
     "autoprefixer": "^10.4.13",
     "nuxt": "npm:nuxt3@latest",
     "postcss": "^8.4.19",

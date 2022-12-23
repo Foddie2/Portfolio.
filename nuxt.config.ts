@@ -9,6 +9,8 @@ export default defineNuxtConfig({
       },
       plugins : [
         {src:'~/node_modules/tw-elements', mode:'client'},
-      ]
+      ],
+      modules: ['@nuxtjs/color-mode']
+
 
 })
