@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <section>
         My web design page
 
-    </div>
+    </section>
 </template>
 
 <script>

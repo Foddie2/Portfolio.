@@ -1,6 +1,6 @@
 <template>
     
-  <div>
+  <section>
       <Navbar/>
       <Header/>
       <About/>
@@ -10,7 +10,7 @@
       <Footer/>
 
   
-    </div>
+    </section>
   </template>
   
   <script>

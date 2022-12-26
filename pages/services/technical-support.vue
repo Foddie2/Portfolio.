@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <section>
         My technical support 
 
-    </div>
+    </section>
 </template>
 
 <script>
