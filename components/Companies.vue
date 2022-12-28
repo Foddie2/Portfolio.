@@ -7,7 +7,7 @@
           Brand new
         </p>
       </div> -->
-      <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+      <h2 class="max-w-lg mb-6 font-sans text-3xl text-center font-bold leading-none tracking-tight text-gray-700 sm:text-4xl md:mx-auto">
         <span class="relative inline-block">
           <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
             <defs>
@@ -21,7 +21,7 @@
         </span>
         Companies worked for
       </h2>
-      <p class="text-base text-gray-700 md:text-lg">
+      <p class="text-base text-center text-gray-700 md:text-lg">
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
       </p>
     </div>
