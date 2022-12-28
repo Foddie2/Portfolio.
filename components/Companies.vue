@@ -1,6 +1,6 @@
 <template>
    <!-- Container for demo purpose -->
-<div class="container my-24 px-6 mx-auto">
+<section class="container my-24 px-6 mx-auto">
   
   <!-- Section: Design Block -->
   <section class="mb-32 text-gray-800 text-center">
@@ -71,7 +71,7 @@
   </section>
   <!-- Section: Design Block -->
   
-</div>
+</section>
 <!-- Container for demo purpose -->
 </template>
 
