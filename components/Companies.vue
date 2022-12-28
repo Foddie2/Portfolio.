@@ -1,78 +1,87 @@
 <template>
-   <!-- Container for demo purpose -->
-<section class="container my-24 px-6 mx-auto">
+    <div class="bg-violet-50 px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+      <!-- <div>
+        <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
+          Brand new
+        </p>
+      </div> -->
+      <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+        <span class="relative inline-block">
+          <svg viewBox="0 0 52 24" fill="currentColor" class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block">
+            <defs>
+              <pattern id="27df4f81-c854-45de-942a-fe90f7a300f9" x="0" y="0" width=".135" height=".30">
+                <circle cx="1" cy="1" r=".7"></circle>
+              </pattern>
+            </defs>
+            <rect fill="url(#27df4f81-c854-45de-942a-fe90f7a300f9)" width="52" height="24"></rect>
+          </svg>
+          <span class="relative">The</span>
+        </span>
+        quick, brown fox jumps over a lazy dog
+      </h2>
+      <p class="text-base text-gray-700 md:text-lg">
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
+      </p>
+    </div>
   
-  <!-- Section: Design Block -->
-  <section class="mb-32 text-gray-800 text-center">
-    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-x-6 lg:gap-x-0 items-center">
-      <div class="mb-12 lg:mb-0 relative">
-        <svg
-          class="w-12 h-12 text-green-600 mx-auto mb-6"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 512 512"
-        >
-          <path
-            fill="currentColor"
-            d="M488.6 250.2L392 214V105.5c0-15-9.3-28.4-23.4-33.7l-100-37.5c-8.1-3.1-17.1-3.1-25.3 0l-100 37.5c-14.1 5.3-23.4 18.7-23.4 33.7V214l-96.6 36.2C9.3 255.5 0 268.9 0 283.9V394c0 13.6 7.7 26.1 19.9 32.2l100 50c10.1 5.1 22.1 5.1 32.2 0l103.9-52 103.9 52c10.1 5.1 22.1 5.1 32.2 0l100-50c12.2-6.1 19.9-18.6 19.9-32.2V283.9c0-15-9.3-28.4-23.4-33.7zM358 214.8l-85 31.9v-68.2l85-37v73.3zM154 104.1l102-38.2 102 38.2v.6l-102 41.4-102-41.4v-.6zm84 291.1l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6zm240 112l-85 42.5v-79.1l85-38.8v75.4zm0-112l-102 41.4-102-41.4v-.6l102-38.2 102 38.2v.6z"
-          ></path>
-        </svg>
-        <h5 class="text-lg text-green-600 font-bold mb-4">5000+</h5>
-        <h6 class="font-medium text-gray-500">Components</h6>
-        <hr class="absolute right-0 top-0 w-px bg-gray-200 h-full hidden lg:block" />
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="grid gap-5 row-gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="px-12 text-center sm:px-0">
+        <div class="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full bg-indigo-100 sm:w-12 sm:h-12">
+          <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
+            <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+          </svg>
+        </div>
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+          Fearless
+        </h6>
+        <div class="mb-2 text-gray-700">
+          I will remember and recover, not forgive and forget.
+        </div>
       </div>
-
-      <div class="mb-12 lg:mb-0 relative">
-        <svg
-          class="w-12 h-12 text-green-600 mx-auto mb-6"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 512 512"
-        >
-          <path
-            fill="currentColor"
-            d="M12.41 148.02l232.94 105.67c6.8 3.09 14.49 3.09 21.29 0l232.94-105.67c16.55-7.51 16.55-32.52 0-40.03L266.65 2.31a25.607 25.607 0 0 0-21.29 0L12.41 107.98c-16.55 7.51-16.55 32.53 0 40.04zm487.18 88.28l-58.09-26.33-161.64 73.27c-7.56 3.43-15.59 5.17-23.86 5.17s-16.29-1.74-23.86-5.17L70.51 209.97l-58.1 26.33c-16.55 7.5-16.55 32.5 0 40l232.94 105.59c6.8 3.08 14.49 3.08 21.29 0L499.59 276.3c16.55-7.5 16.55-32.5 0-40zm0 127.8l-57.87-26.23-161.86 73.37c-7.56 3.43-15.59 5.17-23.86 5.17s-16.29-1.74-23.86-5.17L70.29 337.87 12.41 364.1c-16.55 7.5-16.55 32.5 0 40l232.94 105.59c6.8 3.08 14.49 3.08 21.29 0L499.59 404.1c16.55-7.5 16.55-32.5 0-40z"
-          />
-        </svg>
-        <h5 class="text-lg text-green-600 font-bold mb-4">490+</h5>
-        <h6 class="font-medium text-gray-500">Design blocks</h6>
-        <hr class="absolute right-0 top-0 w-px bg-gray-200 h-full hidden lg:block" />
+      <div class="px-12 text-center sm:px-0">
+        <div class="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full bg-indigo-100 sm:w-12 sm:h-12">
+          <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
+            <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+          </svg>
+        </div>
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+          Honest
+        </h6>
+        <div class="mb-2 text-gray-700">
+          I have nothing to lose but something to gain.
+        </div>
       </div>
-
-      <div class="mb-12 md:mb-0 relative">
-        <svg
-          class="w-12 h-12 text-green-600 mx-auto mb-6"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 512 512"
-        >
-          <path
-            fill="currentColor"
-            d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"
-          />
-        </svg>
-        <h5 class="text-lg text-blue-600 font-bold mb-4">100+</h5>
-        <h6 class="font-medium text-gray-500">Templates</h6>
-        <hr class="absolute right-0 top-0 w-px bg-gray-200 h-full hidden lg:block" />
+      <div class="px-12 text-center sm:px-0">
+        <div class="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full bg-indigo-100 sm:w-12 sm:h-12">
+          <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
+            <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+          </svg>
+        </div>
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+          Beautiful
+        </h6>
+        <div class="mb-2 text-gray-700">
+          White is not always light and black is not always dark.
+        </div>
       </div>
-
-      <div class="relative">
-        <svg
-          class="w-12 h-12 text-blue-600 mx-auto mb-6"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 384 512"
-        >
-          <path
-            fill="currentColor"
-            d="M320,32a32,32,0,0,0-64,0v96h64Zm48,128H16A16,16,0,0,0,0,176v32a16,16,0,0,0,16,16H32v32A160.07,160.07,0,0,0,160,412.8V512h64V412.8A160.07,160.07,0,0,0,352,256V224h16a16,16,0,0,0,16-16V176A16,16,0,0,0,368,160ZM128,32a32,32,0,0,0-64,0v96h64Z"
-          />
-        </svg>
-        <h5 class="text-lg text-blue-600 font-bold mb-4">28</h5>
-        <h6 class="font-medium text-gray-500 mb-0">Plugins</h6>
+      <div class="px-12 text-center sm:px-0">
+        <div class="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full bg-indigo-100 sm:w-12 sm:h-12">
+          <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" stroke="currentColor" viewBox="0 0 52 52">
+            <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+          </svg>
+        </div>
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+          Fantastic
+        </h6>
+        <div class="mb-2 text-gray-700">
+          The meaning of life is to give life meaning.
+        </div>
       </div>
     </div>
-  </section>
-  <!-- Section: Design Block -->
-  
-</section>
-<!-- Container for demo purpose -->
+    </div>
+  </div>
 </template>
 
 <script>
