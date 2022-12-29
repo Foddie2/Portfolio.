@@ -80,7 +80,7 @@
     </section>
   </template>
 
-<script>
+<script lang="js" >
     export default {
         setup() {
             let showMenu = ref(false);
