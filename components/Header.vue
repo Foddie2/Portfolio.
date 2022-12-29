@@ -1,8 +1,7 @@
 <template>
-<!-- Snippet -->
 <section class="flex flex-col justify-center antialiased bg-white text-gray-700 min-h-screen">
     <div class="max-w-6xl mx-auto p-4 sm:px-6 h-full">
-        <!-- Blog post -->
+        <!-- Header section -->
         <article class="max-w-sm mx-auto md:max-w-none grid md:grid-cols-2 gap-6 md:gap-8 lg:gap-12 xl:gap-16 items-center">
             <div>
                 <header>

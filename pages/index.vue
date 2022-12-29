@@ -1,5 +1,4 @@
-<template>
-    
+<template>  
   <section>
       <Navbar/>
       <Header/>
@@ -8,17 +7,15 @@
       <Companies/>
       <Contact/>
       <Footer/>
-
-  
     </section>
-  </template>
+</template>
   
-  <script>
+<script>
   
   
-  </script>
+</script>
   
-  <style  scoped>
+<style  scoped>
   * {
   scroll-behavior: smooth;
 }
