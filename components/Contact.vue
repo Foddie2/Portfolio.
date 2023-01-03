@@ -56,19 +56,19 @@
           <span class="mb-1 text-base">Full Name :</span>
           <input
             id="name" v-model="name" type="text"  placeholder=""
-            class="block w-full rounded-md shadow-sm bg-purple-50 outline-purple-200 h-10">
+            class="block w-full rounded-md shadow-sm bg-violet-50 outline-purple-200 h-10">
         </label>
         <label for="email" class="block">
           <span class="mb-1 text-base">Email Address :</span>
           <input
             id="email"  v-model="email" type="email"  placeholder=""
-            class="block w-full  rounded-md shadow-sm bg-purple-50 outline-purple-200	h-10">
+            class="block w-full  rounded-md shadow-sm bg-violet-50 outline-purple-200	h-10">
         </label>
         <label for="message" class="block">
           <span class="mb-1 text-base">Message :</span>
           <textarea
             id="message"  v-model="message" rows="3"
-            class="block w-full rounded-md bg-purple-50 outline-purple-200 ">
+            class="block w-full rounded-md bg-violet-50 outline-purple-200 ">
           </textarea>
         </label>
           <button
