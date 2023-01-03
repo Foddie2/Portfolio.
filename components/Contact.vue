@@ -72,7 +72,7 @@
           </textarea>
         </label>
           <button
-            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-purple-500 text-purple font-semibold hover:text-white border border-purple-500 hover:border-transparent rounded text-purple-700 uppercase"
+            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-fuchsia-500 text-purple font-semibold hover:text-white border border-fuchsia-500 hover:border-transparent rounded text-fuchsia  -700 uppercase"
             @click.prevent="send">
             Send
           </button>
