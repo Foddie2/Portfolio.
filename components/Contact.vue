@@ -46,7 +46,11 @@
               <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path>
               <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path>
             </svg>
+<<<<<<< HEAD
             <span>Bensonagala@live.com</span>
+=======
+            <span>bensonagala@live.com</span>
+>>>>>>> refs/remotes/origin/main
           </p>
         </div>
       </div>
@@ -55,23 +59,23 @@
           <span class="mb-1 text-base">Full Name :</span>
           <input
             id="name" v-model="name" type="text"  placeholder=""
-            class="block w-full rounded-md shadow-sm bg-purple-50 outline-purple-200 h-10">
+            class="block w-full rounded-md shadow-sm bg-violet-50 outline-purple-200 h-10">
         </label>
         <label for="email" class="block">
           <span class="mb-1 text-base">Email Address :</span>
           <input
             id="email"  v-model="email" type="email"  placeholder=""
-            class="block w-full  rounded-md shadow-sm bg-purple-50 outline-purple-200	h-10">
+            class="block w-full  rounded-md shadow-sm bg-violet-50 outline-purple-200	h-10">
         </label>
         <label for="message" class="block">
           <span class="mb-1 text-base">Message :</span>
           <textarea
             id="message"  v-model="message" rows="3"
-            class="block w-full rounded-md bg-purple-50 outline-purple-200 ">
+            class="block w-full rounded-md bg-violet-50 outline-purple-200 ">
           </textarea>
         </label>
           <button
-            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-purple-500 text-purple font-semibold hover:text-white border border-purple-500 hover:border-transparent rounded text-purple-700 uppercase"
+            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-fuchsia-500 text-purple font-semibold hover:text-white border border-fuchsia-500 hover:border-transparent rounded text-fuchsia  -700 uppercase"
             @click.prevent="send">
             Send
           </button>
@@ -85,7 +89,7 @@
 </section>
 </template>
 
-<script>
+<script lang="js">
     export default {
         
     }

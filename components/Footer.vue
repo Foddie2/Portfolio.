@@ -61,7 +61,7 @@
 </section>
 </template>
 
-<script>
+<script lang="js">
     export default {
         
     }
