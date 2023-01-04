@@ -30,7 +30,7 @@
           </svg>
         </div>
         <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-          Fearless
+          IT Associate
         </h6>
         <div class="mb-2 text-gray-700">
           I will remember and recover, not forgive and forget.
@@ -43,7 +43,7 @@
           </svg>
         </div>
         <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-          Honest
+          FrontEnd Developer
         </h6>
         <div class="mb-2 text-gray-700">
           I have nothing to lose but something to gain.
@@ -56,7 +56,7 @@
           </svg>
         </div>
         <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-          Beautiful
+          IT Support
         </h6>
         <div class="mb-2 text-gray-700">
           White is not always light and black is not always dark.
@@ -69,7 +69,7 @@
           </svg>
         </div>
         <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-          Fantastic
+          Data Management
         </h6>
         <div class="mb-2 text-gray-700">
           The meaning of life is to give life meaning.
