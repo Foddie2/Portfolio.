@@ -12,11 +12,11 @@
             </defs>
             <rect fill="url(#27df4f81-c854-45de-942a-fe90f7a300f9)" width="52" height="24"></rect>
           </svg>
-          <span class="relative">The</span>
+          <span class="relative text-gray-700">The</span>
         </span>
         Companies worked for
       </h2>
-      <p class="text-base text-center text-gray-700 md:text-lg">
+      <p class="text-base text-center text-gray-500">
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
       </p>
     </div>
@@ -29,10 +29,10 @@
             <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
           </svg>
         </div>
-        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase text-gray-700">
           IT Associate
         </h6>
-        <div class="mb-2 text-gray-700">
+        <div class="mb-2 text-gray-500 text-base">
           I will remember and recover, not forgive and forget.
         </div>
       </div>
@@ -42,10 +42,10 @@
             <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
           </svg>
         </div>
-        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase text-gray-700">
           FrontEnd Developer
         </h6>
-        <div class="mb-2 text-gray-700">
+        <div class="mb-2 text-gray-500 text-base">
           I have nothing to lose but something to gain.
         </div>
       </div>
@@ -55,10 +55,10 @@
             <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
           </svg>
         </div>
-        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase text-gray-700">
           IT Support
         </h6>
-        <div class="mb-2 text-gray-700">
+        <div class="mb-2 text-gray-500 text-base">
           White is not always light and black is not always dark.
         </div>
       </div>
@@ -68,10 +68,10 @@
             <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
           </svg>
         </div>
-        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
+        <h6 class="mb-2 text-sm font-bold leading-5 tracking-wider uppercase text-gray-700">
           Data Management
         </h6>
-        <div class="mb-2 text-gray-700">
+        <div class="mb-2 text-gray-500 text-base">
           The meaning of life is to give life meaning.
         </div>
       </div>
