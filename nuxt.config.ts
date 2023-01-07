@@ -10,7 +10,21 @@ export default defineNuxtConfig({
       plugins : [
         {src:'~/node_modules/tw-elements', mode:'client'},
       ],
-      modules: ['@nuxtjs/color-mode']
+      modules: ['@nuxtjs/color-mode', 'nuxt-mailer'],
+      runtimeConfig:{
+        mailerUser:'',
+        mailerPass:'',
+        mailerLog:'',
+        mailerDriver:'',
+        mailerHost:'',
+        mailerPort:'',
+        mailerSmtpTls:'',
+        mailerFromAddress:'',
+        mailerToAddress:'',
+        
+
+
+      }
 
 
 })

@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "nuxt-mailer": "^0.10.1",
     "tw-elements": "^1.0.0-alpha13"
   }
 }
