@@ -54,9 +54,11 @@
                 </a>
             <ul class="child transition duration-300 md:absolute top-full right-0 md:w-48 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
+                      <NuxtLink to="/services/web-dev">
                         <a href="#" class="flex px-4 py-3 hover:bg-violet-50">
                           Web development
                         </a>
+                      </NuxtLink>
                     </li>
                     <li>
                         <a href="#" class="flex px-4 py-3 hover:bg-violet-50">
