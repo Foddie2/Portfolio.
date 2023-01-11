@@ -13,7 +13,7 @@
 	  </section>
   </template>
   
-  <script lang="js">
+  <script setup="js">
   
   </script>
   
