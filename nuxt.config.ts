@@ -11,6 +11,8 @@ export default defineNuxtConfig({
         {src:'~/node_modules/tw-elements', mode:'client'},
       ],
       modules: ['@nuxtjs/color-mode', 'nuxt-mailer'],
+
+      
       runtimeConfig:{
         mailerUser:'',
         mailerPass:'',
