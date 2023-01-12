@@ -1,13 +1,8 @@
 <template>
-        $route.params = {id:web-dev}
 
 </template>
 
-<script>
-    export default {
-        
-    }
-</script>
+<script setup>
 
 <style lang="scss" scoped>
 
