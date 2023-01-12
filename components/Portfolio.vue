@@ -1,10 +1,10 @@
 <template>
-	<section id="Portfolio" class="dark:bg-gray-800 dark:text-gray-100">
+	<section id="Portfolio" class="dark:bg-gray-700 dark:text-gray-100">
 		<div class="container  max-w-6xl px-2 py-12 mx-auto">
 			<div class="grid gap-4 mx-4 sm:grid-cols-12">
 				<div class="col-span-12 sm:col-span-3">
 					<div class="text-center sm:text-left mb-14 before:block before:w-24 before:h-3 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:dark:bg-violet-400">
-						<h3 class="text-3xl font-semibold text-gray-700">Morbi tempor</h3>
+						<h3 class="text-3xl font-semibold text-gray-700">Work Experience</h3>
 						<span class="text-sm font-bold tracking-wider uppercase text-gray-700">Vestibulum diam nunc</span>
 					</div>
 				</div>
