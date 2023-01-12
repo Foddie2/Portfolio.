@@ -1,5 +1,5 @@
 <template>
-<section>
+<section id="Contact" >
   <Navbar/>
   <div class="py-24 px-6 bg-white text-gray-700">
     <div class="grid max-w-6xl grid-cols-1 mx-auto md:grid-cols-2 md:divide-x">
