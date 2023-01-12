@@ -55,23 +55,23 @@
           <span class="mb-1 text-base text-gray-500">Full Name :</span>
           <input
             id="name" v-model="name" type="text"  placeholder=""
-            class="block w-full rounded-md shadow-sm bg-violet-50 outline-purple-200 h-10">
+            class="block w-full rounded-md shadow-sm bg-violet-50 outline-violet-200 h-10">
         </label>
         <label for="email" class="block">
           <span class="mb-1 text-base text-gray-500">Email Address :</span>
           <input
             id="email"  v-model="email" type="email"  placeholder=""
-            class="block w-full  rounded-md shadow-sm bg-violet-50 outline-purple-200	h-10">
+            class="block w-full  rounded-md shadow-sm bg-violet-50 outline-violet-200	h-10">
         </label>
         <label for="message" class="block">
           <span class="mb-1 text-base text-gray-500">Message :</span>
           <textarea
             id="message"  v-model="message" rows="3"
-            class="block w-full rounded-md bg-violet-50 outline-purple-200 ">
+            class="block w-full rounded-md bg-violet-50 outline-violet-200 ">
           </textarea>
         </label>
           <button
-            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-fuchsia-500 text-purple font-semibold hover:text-white border border-fuchsia-500 hover:border-transparent rounded text-fuchsia-700 uppercase"
+            type="button" disabled class="bg-transparent self-center px-8 py-2 hover:bg-blue-500 text-purple font-semibold hover:text-white border border-blue-500 hover:border-transparent rounded text-blue-700 uppercase"
             @click.prevent="send">
             Send
           </button>
